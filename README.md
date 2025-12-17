@@ -48,9 +48,10 @@ Git • GitHub • VS Code • Postman • Figma (Basic) • Netlify
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=FarhaanShahzad&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarhaanShahzad&layout=compact&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abhhishekTiwari313&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhhishekTiwari313&layout=compact&theme=radical" />
 </p>
+
 
 ---
 
